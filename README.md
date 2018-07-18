@@ -1,4 +1,10 @@
 开源IP签名图v1
+<br/>
 使用次数在文件counter.dat
-版权©zrlo
-版权©LZT
+<br/>
+<br/>
+©zrlo QQ1033320040
+<br/>
+©LZT QQ1608683211
+<br/>
+二开请声明版权
